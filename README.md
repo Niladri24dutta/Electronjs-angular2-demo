@@ -1,2 +1,2 @@
 # Electronjs-angular2-demo
-A desktop app with electron , angular2
+A desktop app with electronjs and angular2
